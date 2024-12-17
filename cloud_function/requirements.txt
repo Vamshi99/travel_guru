@@ -1,0 +1,7 @@
+functions-framework==3.*
+google-cloud-firestore
+firebase-admin
+requests
+google-auth
+google-cloud-aiplatform
+flask
